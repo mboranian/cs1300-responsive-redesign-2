@@ -309,10 +309,6 @@ img {
         display: inline;
     }
 
-    #sideMenu:visited {
-        display: none;
-    }
-
     .sideMenuButton {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         background-color: #eaf3ee;
